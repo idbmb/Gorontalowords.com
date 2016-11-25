@@ -1,7 +1,7 @@
 # Gorontalowords.com
 Aplikasi Android - Game Susun Kata Bahasa Gorontalo
 
-Demo apk Gorontalo Words Dapat di unduh di link bawah ini :
+Demo apk Gorontalo Words dapat di unduh di link bawah ini :
 https://github.com/idbmb/Gorontalowords.com/blob/master/app/build/outputs/apk/app-debug.apk
 
 Ini adalah proyek template untuk Android Studio yang memungkinkan Anda untuk membuat aplikasi tampilan web android dengan mudah. Anda dapat menggunakannya untuk membuat aplikasi sederhana untuk website atau sebagai titik awal untuk aplikasi berbasis HTML5 android Anda.
@@ -39,3 +39,11 @@ Jika Anda ingin membuat HTML5 aplikasi android lokal
 	```
 
 2. replace the boilerplate website in `src/main/assets/www/` with your own HTML, CSS and JavaScript files
+
+# Screenshots
+
+<img src="https://github.com/idbmb/Gorontalowords.com/blob/master/Screenshot/15182573_1809864675896071_685297613_o.png?raw=true" width="300" height="450" />
+<img src="https://github.com/idbmb/Gorontalowords.com/blob/master/Screenshot/15182517_1809864639229408_1149362133_o.png?raw=true" width="300" height="450" />
+<img src="https://github.com/idbmb/Gorontalowords.com/blob/master/Screenshot/15204055_1809864609229411_978301298_o.png?raw=true" width="300" height="450" />
+<img src="https://github.com/idbmb/Gorontalowords.com/blob/master/Screenshot/15146711_1809864612562744_1025506103_o.png?raw=true" width="300" height="450" />
+<img src="https://github.com/idbmb/Gorontalowords.com/blob/master/Screenshot/15215703_1809864649229407_278132949_o.png?raw=true" width="300" height="450" />
