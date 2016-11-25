@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\IDBMB\Documents\GitHub\Gorontalowords.com\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\IDBMB\Documents\GitHub\Gorontalowords.com\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_e2a3a19f015e692c5981a03e57539e5d40345aef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IDBMB\Documents\GitHub\Gorontalowords.com\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\IDBMB\Documents\GitHub\Gorontalowords.com\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_4c1738e52b19e6d116fb3490ced9fce8bd6d09e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IDBMB\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\IDBMB\Documents\GitHub\Gorontalowords.com\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_c5c505ec6af3f5e66b984148bdc02079f3b903b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IDBMB\Documents\GitHub\Gorontalowords.com\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\IDBMB\Documents\GitHub\Gorontalowords.com\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_9375bccf111ad39f52717f791466c038dad1e2a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IDBMB\Documents\GitHub\Gorontalowords.com\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\IDBMB\Documents\GitHub\Gorontalowords.com\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_32cb6c163b0e5dc71bb499920e99b1e044ce2dbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IDBMB\Documents\GitHub\Gorontalowords.com\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\IDBMB\Documents\GitHub\Gorontalowords.com\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_675c0643471a318fb349bdc558e35953c3414a50.jar" />
+    </item>
+
+</items>
