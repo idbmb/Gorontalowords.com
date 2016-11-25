@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\IDBMB\\Documents\\GitHub\\Gorontalowords.com\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\IDBMB\\Documents\\GitHub\\Gorontalowords.com\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\IDBMB\\Documents\\GitHub\\Gorontalowords.com\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\IDBMB\\Documents\\GitHub\\Gorontalowords.com\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\IDBMB\\Documents\\GitHub\\Gorontalowords.com\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\IDBMB\\Documents\\GitHub\\Gorontalowords.com\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\IDBMB\\Documents\\GitHub\\Gorontalowords.com\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\IDBMB\\Documents\\GitHub\\Gorontalowords.com\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\IDBMB\\Documents\\GitHub\\Gorontalowords.com\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\IDBMB\\Documents\\GitHub\\Gorontalowords.com\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\IDBMB\\Documents\\GitHub\\Gorontalowords.com\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\IDBMB\\Documents\\GitHub\\Gorontalowords.com\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\IDBMB\\Documents\\GitHub\\Gorontalowords.com\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\IDBMB\\Documents\\GitHub\\Gorontalowords.com\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\IDBMB\\Documents\\GitHub\\Gorontalowords.com\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\IDBMB\\Documents\\GitHub\\Gorontalowords.com\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\IDBMB\\Documents\\GitHub\\Gorontalowords.com\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radialback.xml",
+        "source": "C:\\Users\\IDBMB\\Documents\\GitHub\\Gorontalowords.com\\app\\src\\main\\res\\drawable\\radialback.xml"
+    },
+    {
+        "merged": "C:\\Users\\IDBMB\\Documents\\GitHub\\Gorontalowords.com\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gambarsplash.png",
+        "source": "C:\\Users\\IDBMB\\Documents\\GitHub\\Gorontalowords.com\\app\\src\\main\\res\\drawable\\gambarsplash.png"
+    }
+]
