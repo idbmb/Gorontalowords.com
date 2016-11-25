@@ -1,6 +1,9 @@
 # Gorontalowords.com
 Aplikasi Android - Game Susun Kata Bahasa Gorontalo
 
+Apk Gorontalo Words Dapat di unduh di link bawah ini :
+https://github.com/idbmb/Gorontalowords.com/blob/master/app/build/outputs/apk/app-debug.apk
+
 Ini adalah proyek template untuk Android Studio yang memungkinkan Anda untuk membuat aplikasi tampilan web android dengan mudah. Anda dapat menggunakannya untuk membuat aplikasi sederhana untuk website atau sebagai titik awal untuk aplikasi berbasis HTML5 android Anda.
 
 ### Getting started
